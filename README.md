@@ -78,7 +78,7 @@ https://toshiba.semicon-storage.com/info/TB67H420FTG_datasheet_en_20201016.pdf?d
 
 -**SW SIG** is external input signal from the switch
 
--**A OUT & B OUT** signals from encodera
+-**A OUT & B OUT** signals from encoder
 
 -**OUT A+ OUT A-** 1 motor connection
 
@@ -92,7 +92,7 @@ https://toshiba.semicon-storage.com/info/TB67H420FTG_datasheet_en_20201016.pdf?d
 
 **R8 & BR9** soldered if you want to use **1 motor & 1 driver**
 
-**R10 & BR11** soldered if you want to use **2 motor & 1 driver**
+**R10 & BR11** soldered if you want to use **2 motors & 1 driver**
 
 **R12 & BR13** soldered if you want to use **2 motors & 2 drivers**
 
