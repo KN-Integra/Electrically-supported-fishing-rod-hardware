@@ -86,6 +86,8 @@ https://toshiba.semicon-storage.com/info/TB67H420FTG_datasheet_en_20201016.pdf?d
 
 
 **R8-R13 jumpers configuration**
+
+
 ![image](https://github.com/KN-Integra/Electrically-supported-fishing-rod-hardware/assets/75276739/2f02bac3-dd09-4685-ba07-05d3f3929c38)
 
 **R8 & BR9** soldered if you want to use **1 motor & 1 driver**
